@@ -9,7 +9,7 @@ Define the code structure and implement it in line with best practices for your 
 ### **Expectations**
 
 * Timebox this exercise to **under an hour**.
-* Use Go or Python
+* Use Go or Python.
 * We should be able to easily **build and run** your solution to validate the outputs.  
 * Please share a link to a **public GitHub repository** with us containing your solution, or create a private GitHub repository and share access with GitHub users: **nm-dcs**, **jladbrook** and **AlexHandyNM**.
 
